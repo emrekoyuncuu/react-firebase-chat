@@ -51,9 +51,7 @@ To run this project locally, follow these steps:
 
 ## Demo
 
-Explore the live demo [here](https://emrekoyuncuu.github.io/react-firebase-chat/).
-
-https://emrekoyuncuu.github.io/react-firebase-chat/
+Visit the [react firebase chat](https://emrekoyuncuu.github.io/react-firebase-chat/).
 
 ## Author
 
